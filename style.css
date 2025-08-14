@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(27, 26, 26);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+  background-color: #272626;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.catalogo {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px;
+}
+
+.texto{
+  color: rgb(148, 148, 148);
+  font-style: oblique;
+}
+
+.text {
+  color: rgb(65, 180, 54);
+  font-style: italic;
+}
+
+.titulo {
+  color: rgb(16, 201, 99);
+}
